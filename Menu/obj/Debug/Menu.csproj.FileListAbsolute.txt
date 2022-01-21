@@ -1,0 +1,85 @@
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\bin\Debug\Menu.exe.config
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\bin\Debug\Menu.exe
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\bin\Debug\Menu.pdb
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\obj\Debug\Menu.exe
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\obj\Debug\Menu.pdb
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\obj\Debug\Menu.ControlCenter.resources
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\bin\Debug\Interop.WMPLib.dll
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\obj\Debug\Interop.WMPLib.dll
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\obj\Debug\Menu.csproj.ResolveComReference.cache
+C:\Users\92347\Desktop\OOP\Projects\MediaPlayer1\Menu\bin\Debug\YoutubeSearch.dll
+C:\Users\92347\Desktop\MediaPlayer\Menu\bin\Debug\Menu.exe.config
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\Interop.WMPLib.dll
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\Menu.csproj.ResolveComReference.cache
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\Menu.exe
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\Menu.pdb
+C:\Users\92347\Desktop\MediaPlayer\Menu\bin\Debug\Menu.exe
+C:\Users\92347\Desktop\MediaPlayer\Menu\bin\Debug\Menu.pdb
+C:\Users\92347\Desktop\MediaPlayer\Menu\bin\Debug\YoutubeSearch.dll
+C:\Users\92347\Desktop\MediaPlayer\Menu\bin\Debug\Interop.WMPLib.dll
+C:\Users\92347\Desktop\MediaPlayer\Menu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\Menu.ControlCenter.resources
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\92347\Desktop\MediaPlayer\Menu\obj\Debug\Menu.About.resources
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Menu.exe.config
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Interop.WMPLib.dll
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.ResolveComReference.cache
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.exe
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.pdb
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Menu.exe
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Menu.pdb
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\YoutubeSearch.dll
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Interop.WMPLib.dll
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.About.resources
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.ControlCenter.resources
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\92347\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Menu.exe.config
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Menu.exe
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Menu.pdb
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\YoutubeSearch.dll
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Interop.WMPLib.dll
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Interop.WMPLib.dll
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.ResolveComReference.cache
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.About.resources
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.ControlCenter.resources
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.exe
+C:\Users\92347\Desktop\Desktop\OOP\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Menu.exe.config
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Menu.exe
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Menu.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\YoutubeSearch.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.ResolveComReference.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.About.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.ControlCenter.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.exe
+C:\Users\Mayo\Desktop\Desktop\OOP\Final Projects\Media-Player-Final-Project\MediaPlayer\Menu\obj\Debug\Menu.pdb

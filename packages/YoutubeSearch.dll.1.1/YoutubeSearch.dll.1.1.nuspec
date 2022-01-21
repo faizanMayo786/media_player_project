@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>YoutubeSearch.dll</id>
+    <version>1.1</version>
+    <title>YoutubeSearch.dll</title>
+    <authors>Torsten Klinger</authors>
+    <owners>Torsten Klinger</owners>
+    <licenseUrl>https://github.com/mrklintscher/YoutubeSearch</licenseUrl>
+    <projectUrl>https://github.com/mrklintscher/YoutubeSearch</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>YoutubeSearch is a library for .NET, written in C#, to show search query results from YouTube.</description>
+    <summary />
+    <copyright>Copyright (c) 2016 Torsten Klinger</copyright>
+    <tags>YouTube Api</tags>
+  </metadata>
+</package>
